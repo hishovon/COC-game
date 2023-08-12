@@ -12,3 +12,5 @@ sr.reveal('.hero-img',{delay:450, origin: 'top'});
 sr.reveal('.icon',{delay:500, origin: 'left'});
 sr.reveal('.scroll-down',{delay:500, origin: 'right'});
 sr.reveal('.cards',{delay:700, origin: 'bottom'});
+sr.reveal('.scroll',{delay:500, origin: 'right'});
+sr.reveal('.town',{delay:500, origin: 'left'});
