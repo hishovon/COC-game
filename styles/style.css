@@ -129,3 +129,12 @@ transition: all .50s ease;
   background-color: rgb(0, 158, 156);
   color: white;
 }
+
+
+
+
+@media (max-width: 768px) {
+  .tm-10{
+      display: none;
+    }
+}
